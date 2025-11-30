@@ -45,5 +45,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/products_state.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update product state [skip ci]" && git pull --rebase && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update product state [skip ci]" && git pull --no-rebase -X theirs && git push) || true
 
