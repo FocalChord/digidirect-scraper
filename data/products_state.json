@@ -1,0 +1,51 @@
+{
+  "last_check": "2025-12-01T10:34:07.815061",
+  "total_products": 5,
+  "products": [
+    {
+      "sku": "525165",
+      "title": "Used Leica M7 TTL .72 Rangefinder Camera Body Only (Black) S/N - 2887941",
+      "price": 6554.05,
+      "original_price": 6899.0,
+      "url": "https://www.digidirect.com.au/used-leica-m7-ttl-72-rangefinder-camera-body-only-black-s-n-2887941",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167003.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$344.95"
+    },
+    {
+      "sku": "522786",
+      "title": "Used Leica Summilux-M 50mm f/1.4 ASPH. Lens -11892 (Silver) S/N - 4658678",
+      "price": 4949.1,
+      "original_price": 5499.0,
+      "url": "https://www.digidirect.com.au/used-leica-summilux-m-50mm-f-1-4-asph-lens-11892-silver-s-n-4658678",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/164914.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$549.90"
+    },
+    {
+      "sku": "108074",
+      "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
+      "price": 15.26,
+      "original_price": 16.95,
+      "url": "https://www.digidirect.com.au/used-leica-otqno-extension-tube-leitz-16468-for-elmar-90mm-f-4-lens",
+      "image": "https://www.digidirect.com.au/media/catalog/product/o/t/otqno.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$1.69"
+    },
+    {
+      "sku": "84343",
+      "title": "Used Leica OTRPO Visoflex Extension Tube (16471)",
+      "price": 9.0,
+      "original_price": 10.0,
+      "url": "https://www.digidirect.com.au/used-leica-otrpo-visoflex-extension-tube-16471",
+      "image": "https://www.digidirect.com.au/media/catalog/product/d/i/digiseconds_150528_0003_used_otrpo.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$1.00"
+    },
+    {
+      "sku": "83422",
+      "title": "Used Leica - SUMMARIT-S 35mm /f2.5 ASPH",
+      "price": 2231.55,
+      "original_price": 2349.0,
+      "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$117.45"
+    }
+  ]
+}

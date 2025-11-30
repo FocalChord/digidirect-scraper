@@ -1,8 +1,8 @@
 # Environment variables
 .env
 
-# Data files
-data/
+# Local data files only (allow data/ in git for state persistence)
+data/*.log
 
 # Python
 __pycache__/
