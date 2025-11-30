@@ -1,27 +1,26 @@
-# Generic Scraper Notifier
+# DigiDirect Scraper
 
 Monitors DigiDirect for Leica products and sends Telegram notifications on changes.
 
 ## Setup
 
-### GitHub Actions (Recommended - Free)
+### GitHub Actions
 
-1. Fork/create this repo on GitHub
-2. Add secrets in Settings → Secrets and variables → Actions:
-   - `TELEGRAM_BOT_TOKEN`: Your bot token
-   - `TELEGRAM_CHAT_ID`: Your chat ID
-3. Enable Actions in repo settings
-4. Done! Runs every 5 minutes automatically
+1. Add secrets in Settings > Secrets and variables > Actions:
+   - TELEGRAM_BOT_TOKEN
+   - TELEGRAM_CHAT_ID
+2. Enable Actions in repo settings
+3. Runs every 5 minutes automatically
 
 ### Local
 
-1. Install: `pip install -r requirements.txt && playwright install chromium`
-2. Create `.env` with your tokens
+1. Install dependencies: `pip install -r requirements.txt && playwright install chromium`
+2. Create `.env` file with your tokens
 3. Run: `python main.py`
 
 ## Features
 
 - Monitors Leica products every 5 minutes
 - Telegram notifications for new products, removals, price changes
-- Generic/configurable for other sites
+- Generic and configurable for other sites
 
