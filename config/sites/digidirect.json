@@ -1,0 +1,17 @@
+{
+  "name": "DigiDirect Leica",
+  "url": "https://www.digidirect.com.au/digiseconds/preloved?brand=Leica",
+  "wait_for_selector": ".result-wrapper",
+  "wait_timeout": 30000,
+  "selectors": {
+    "product_container": "div.col-md-4.col-sm-6.list-view-col",
+    "sku": "div[digidirect] span:first-child",
+    "title": "h3.result-title",
+    "price": "span.custom_final_price",
+    "original_price": "span.price-container span.price",
+    "discount": "span.discount-price",
+    "url": "a.result",
+    "image": "img[itemprop='image']"
+  }
+}
+

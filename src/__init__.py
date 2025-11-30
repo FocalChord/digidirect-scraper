@@ -1,0 +1,2 @@
+# Generic Scraper Notifier Package
+
