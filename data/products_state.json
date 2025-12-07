@@ -1,7 +1,16 @@
 {
-  "last_check": "2025-12-07T09:17:11.490413",
-  "total_products": 4,
+  "last_check": "2025-12-07T09:32:17.949233",
+  "total_products": 5,
   "products": [
+    {
+      "sku": "526992",
+      "title": "Used Leica V-Lux 5 Digital Camera S/N - 5523669",
+      "price": 1709.05,
+      "original_price": 1799.0,
+      "url": "https://www.digidirect.com.au/used-leica-v-lux-5-digital-camera-s-n-5523669",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167189.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$89.95"
+    },
     {
       "sku": "522786",
       "title": "Used Leica Summilux-M 50mm f/1.4 ASPH. Lens -11892 (Silver) S/N - 4658678",
