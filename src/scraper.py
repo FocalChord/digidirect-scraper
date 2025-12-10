@@ -186,22 +186,32 @@ class Scraper:
                 return None
             title = title_element.inner_text().strip()
             
-            # Extract price - try multiple selectors for the sale price
+            # Extract price - try multiple selectors and fallbacks
             price = None
             price_selectors = [
                 self.selectors['price'],
                 'span.after_special.custom_final_price',
-                'span.custom_final_price.black-friday'
+                'span.custom_final_price.black-friday',
+                'span.custom_final_price',
+                'span.after_special',
+                'meta[itemprop="price"]'
             ]
+            
             for selector in price_selectors:
                 price_element = element.query_selector(selector)
                 if price_element:
-                    price_text = price_element.inner_text().strip()
-                    try:
-                        price = self._parse_price(price_text)
-                        break
-                    except:
-                        continue
+                    if selector.startswith('meta'):
+                        price_text = price_element.get_attribute('content')
+                    else:
+                        price_text = price_element.inner_text().strip()
+                    
+                    if price_text:
+                        try:
+                            price = self._parse_price(price_text)
+                            break
+                        except Exception as e:
+                            logger.debug(f"Failed to parse price '{price_text}' with selector '{selector}': {e}")
+                            continue
             
             if price is None:
                 logger.warning(f"Could not extract price for {title}")
