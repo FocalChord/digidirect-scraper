@@ -1,42 +1,42 @@
 {
-  "last_check": "2025-12-24T08:14:38.536590",
+  "last_check": "2025-12-24T08:45:53.843987",
   "total_products": 5,
   "products": [
     {
       "sku": "526992",
       "title": "Used Leica V-Lux 5 Digital Camera S/N - 5523669",
-      "price": 1709.05,
+      "price": 1619.1,
       "original_price": 1799.0,
       "url": "https://www.digidirect.com.au/used-leica-v-lux-5-digital-camera-s-n-5523669",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167189.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$89.95"
+      "discount": "$179.90"
     },
     {
       "sku": "525165",
       "title": "Used Leica M7 TTL .72 Rangefinder Camera Body Only (Black) S/N - 2887941",
-      "price": 6554.05,
+      "price": 6209.1,
       "original_price": 6899.0,
       "url": "https://www.digidirect.com.au/used-leica-m7-ttl-72-rangefinder-camera-body-only-black-s-n-2887941",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167003.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$344.95"
+      "discount": "$689.90"
     },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
-      "price": 16.1,
+      "price": 15.26,
       "original_price": 16.95,
       "url": "https://www.digidirect.com.au/used-leica-otqno-extension-tube-leitz-16468-for-elmar-90mm-f-4-lens",
       "image": "https://www.digidirect.com.au/media/catalog/product/o/t/otqno.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$0.85"
+      "discount": "$1.69"
     },
     {
       "sku": "84343",
       "title": "Used Leica OTRPO Visoflex Extension Tube (16471)",
-      "price": 9.5,
+      "price": 9.0,
       "original_price": 10.0,
       "url": "https://www.digidirect.com.au/used-leica-otrpo-visoflex-extension-tube-16471",
       "image": "https://www.digidirect.com.au/media/catalog/product/d/i/digiseconds_150528_0003_used_otrpo.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$0.50"
+      "discount": "$1.00"
     },
     {
       "sku": "83422",
