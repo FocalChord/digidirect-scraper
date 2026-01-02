@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-01-02T03:21:05.048788",
+  "last_check": "2026-01-02T04:13:00.851645",
   "total_products": 5,
   "products": [
+    {
+      "sku": "528053",
+      "title": "Used Leica SL3 Mirrorless Camera Body Only SN: 06009922",
+      "price": 8099.1,
+      "original_price": 8999.0,
+      "url": "https://www.digidirect.com.au/used-leica-sl3-mirrorless-camera-body-only-sn-06009922",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168231.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$899.90"
+    },
     {
       "sku": "526992",
       "title": "Used Leica V-Lux 5 Digital Camera S/N - 5523669",
@@ -10,15 +19,6 @@
       "url": "https://www.digidirect.com.au/used-leica-v-lux-5-digital-camera-s-n-5523669",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167189.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": "$179.90"
-    },
-    {
-      "sku": "525165",
-      "title": "Used Leica M7 TTL .72 Rangefinder Camera Body Only (Black) S/N - 2887941",
-      "price": 6209.1,
-      "original_price": 6899.0,
-      "url": "https://www.digidirect.com.au/used-leica-m7-ttl-72-rangefinder-camera-body-only-black-s-n-2887941",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167003.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$689.90"
     },
     {
       "sku": "108074",
