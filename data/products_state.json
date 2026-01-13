@@ -1,60 +1,60 @@
 {
-  "last_check": "2026-01-13T00:00:58.504591",
+  "last_check": "2026-01-13T02:00:49.006609",
   "total_products": 6,
   "products": [
     {
       "sku": "528265",
       "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
-      "price": 6649.05,
-      "original_price": 6999.0,
+      "price": 6999.0,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-vario-elmarit-sl-24-90mm-f-2-8-4-asph-lens-sn-4523538",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168230.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$349.95"
+      "discount": null
     },
     {
       "sku": "528053",
       "title": "Used Leica SL3 Mirrorless Camera Body Only SN: 06009922",
-      "price": 8099.1,
-      "original_price": 8999.0,
+      "price": 8999.0,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-sl3-mirrorless-camera-body-only-sn-06009922",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168231.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$899.90"
+      "discount": null
     },
     {
       "sku": "526992",
       "title": "Used Leica V-Lux 5 Digital Camera S/N - 5523669",
-      "price": 1619.1,
-      "original_price": 1799.0,
+      "price": 1799.0,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-v-lux-5-digital-camera-s-n-5523669",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/167189.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$179.90"
+      "discount": null
     },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
-      "price": 15.26,
-      "original_price": 16.95,
+      "price": 16.95,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-otqno-extension-tube-leitz-16468-for-elmar-90mm-f-4-lens",
       "image": "https://www.digidirect.com.au/media/catalog/product/o/t/otqno.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$1.69"
+      "discount": null
     },
     {
       "sku": "84343",
       "title": "Used Leica OTRPO Visoflex Extension Tube (16471)",
-      "price": 9.0,
-      "original_price": 10.0,
+      "price": 10.0,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-otrpo-visoflex-extension-tube-16471",
       "image": "https://www.digidirect.com.au/media/catalog/product/d/i/digiseconds_150528_0003_used_otrpo.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$1.00"
+      "discount": null
     },
     {
       "sku": "83422",
       "title": "Used Leica - SUMMARIT-S 35mm /f2.5 ASPH",
-      "price": 2231.55,
-      "original_price": 2349.0,
+      "price": 2349.0,
+      "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$117.45"
+      "discount": null
     }
   ]
 }
