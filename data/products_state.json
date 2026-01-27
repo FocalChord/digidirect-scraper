@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-01-27T06:19:12.307994",
+  "last_check": "2026-01-27T06:56:13.995385",
   "total_products": 6,
   "products": [
+    {
+      "sku": "528053",
+      "title": "Used Leica SL3 Mirrorless Camera Body Only SN: 06009922",
+      "price": 8999.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-sl3-mirrorless-camera-body-only-sn-06009922",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168231.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "528265",
       "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
@@ -12,12 +21,12 @@
       "discount": null
     },
     {
-      "sku": "528053",
-      "title": "Used Leica SL3 Mirrorless Camera Body Only SN: 06009922",
-      "price": 8999.0,
+      "sku": "83422",
+      "title": "Used Leica - SUMMARIT-S 35mm /f2.5 ASPH",
+      "price": 2349.0,
       "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-sl3-mirrorless-camera-body-only-sn-06009922",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168231.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     },
     {
@@ -45,15 +54,6 @@
       "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-otrpo-visoflex-extension-tube-16471",
       "image": "https://www.digidirect.com.au/media/catalog/product/d/i/digiseconds_150528_0003_used_otrpo.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
-    {
-      "sku": "83422",
-      "title": "Used Leica - SUMMARIT-S 35mm /f2.5 ASPH",
-      "price": 2349.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     }
   ]
