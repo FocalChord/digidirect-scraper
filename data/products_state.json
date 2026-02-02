@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-02-02T18:05:07.829242",
-  "total_products": 6,
+  "last_check": "2026-02-02T23:15:38.771984",
+  "total_products": 5,
   "products": [
     {
       "sku": "528265",
@@ -45,15 +45,6 @@
       "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
-    {
-      "sku": "84343",
-      "title": "Used Leica OTRPO Visoflex Extension Tube (16471)",
-      "price": 10.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-otrpo-visoflex-extension-tube-16471",
-      "image": "https://www.digidirect.com.au/media/catalog/product/d/i/digiseconds_150528_0003_used_otrpo.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     }
   ]
