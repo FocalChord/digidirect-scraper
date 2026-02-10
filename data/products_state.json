@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-02-09T23:57:19.516882",
-  "total_products": 5,
+  "last_check": "2026-02-10T01:56:01.314560",
+  "total_products": 6,
   "products": [
+    {
+      "sku": "529789",
+      "title": "Used Leica SL2-S Body Only (Recently Serviced by Leica Aust.) S/N 5645322",
+      "price": 4699.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-sl2-s-body-only-recently-serviced-by-leica-aust-s-n-5645322",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/5/159713.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "528265",
       "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
