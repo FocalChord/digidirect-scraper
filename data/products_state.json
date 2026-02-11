@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-02-11T12:33:47.617191",
-  "total_products": 2,
+  "last_check": "2026-02-11T14:48:55.394831",
+  "total_products": 3,
   "products": [
+    {
+      "sku": "529789",
+      "title": "Used Leica SL2-S Body Only (Recently Serviced by Leica Aust.) S/N 5645322",
+      "price": 4699.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-sl2-s-body-only-recently-serviced-by-leica-aust-s-n-5645322",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/5/159713.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
