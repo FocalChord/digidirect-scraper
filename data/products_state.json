@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-02-15T19:04:36.635611",
-  "total_products": 6,
+  "last_check": "2026-02-15T19:34:54.225361",
+  "total_products": 5,
   "products": [
     {
       "sku": "529789",
@@ -18,15 +18,6 @@
       "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-vario-elmarit-sl-24-90mm-f-2-8-4-asph-lens-sn-4523538",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168230.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
-    {
-      "sku": "528053",
-      "title": "Used Leica SL3 Mirrorless Camera Body Only SN: 06009922",
-      "price": 8749.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-sl3-mirrorless-camera-body-only-sn-06009922",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168231.02.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     },
     {
