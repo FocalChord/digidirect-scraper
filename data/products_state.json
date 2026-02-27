@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-02-27T04:27:48.683612",
-  "total_products": 5,
+  "last_check": "2026-02-27T05:34:19.406915",
+  "total_products": 6,
   "products": [
+    {
+      "sku": "531724",
+      "title": "Used LEICA - ELMARIT-TL 18mm f/2.8 ASPH. - Black (APS-C) Leica L Mount SN: 4674489",
+      "price": 1399.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-elmarit-tl-18mm-f-2-8-asph-black-aps-c-leica-l-mount-sn-4674489",
+      "image": "https://www.digidirect.com.au/media/catalog/product/a/s/as_.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "529789",
       "title": "Used Leica SL2-S Body Only (Recently Serviced by Leica Aust.) S/N 5645322",
