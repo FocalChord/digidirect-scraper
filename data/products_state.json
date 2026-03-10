@@ -1,7 +1,25 @@
 {
-  "last_check": "2026-03-10T03:34:48.665237",
-  "total_products": 6,
+  "last_check": "2026-03-10T04:57:54.564164",
+  "total_products": 8,
   "products": [
+    {
+      "sku": "531967",
+      "title": "Used Leica 35mm Summilux-TL f/1.4 APS-C Black L-Mount SN: 4593400",
+      "price": 1699.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-black-l-mount-sn-4593400",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/172374.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
+    {
+      "sku": "531955",
+      "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
+      "price": 1699.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-silver-l-mount-sn-4601133",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174262.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "531724",
       "title": "Used LEICA - ELMARIT-TL 18mm f/2.8 ASPH. - Black (APS-C) Leica L Mount SN: 4674489",
