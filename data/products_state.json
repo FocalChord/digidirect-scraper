@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-03-20T07:29:26.235794",
-  "total_products": 3,
+  "last_check": "2026-03-20T08:01:10.970910",
+  "total_products": 4,
   "products": [
+    {
+      "sku": "531967",
+      "title": "Used Leica 35mm Summilux-TL f/1.4 APS-C Black L-Mount SN: 4593400",
+      "price": 1529.1,
+      "original_price": 1699.0,
+      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-black-l-mount-sn-4593400",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/172374.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$169.90"
+    },
     {
       "sku": "528265",
       "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
