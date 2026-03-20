@@ -1,34 +1,7 @@
 {
-  "last_check": "2026-03-20T11:20:02.552908",
-  "total_products": 5,
+  "last_check": "2026-03-20T11:47:52.833869",
+  "total_products": 2,
   "products": [
-    {
-      "sku": "531967",
-      "title": "Used Leica 35mm Summilux-TL f/1.4 APS-C Black L-Mount SN: 4593400",
-      "price": 1529.1,
-      "original_price": 1699.0,
-      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-black-l-mount-sn-4593400",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/172374.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$169.90"
-    },
-    {
-      "sku": "531955",
-      "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
-      "price": 1529.1,
-      "original_price": 1699.0,
-      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-silver-l-mount-sn-4601133",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174262.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$169.90"
-    },
-    {
-      "sku": "528265",
-      "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
-      "price": 6299.1,
-      "original_price": 6999.0,
-      "url": "https://www.digidirect.com.au/used-leica-vario-elmarit-sl-24-90mm-f-2-8-4-asph-lens-sn-4523538",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168230.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$699.90"
-    },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
