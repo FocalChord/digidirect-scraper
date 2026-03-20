@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-03-20T05:32:53.266900",
-  "total_products": 2,
+  "last_check": "2026-03-20T06:30:52.520585",
+  "total_products": 3,
   "products": [
+    {
+      "sku": "528265",
+      "title": "Used Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH. Lens SN: 4523538",
+      "price": 6299.1,
+      "original_price": 6999.0,
+      "url": "https://www.digidirect.com.au/used-leica-vario-elmarit-sl-24-90mm-f-2-8-4-asph-lens-sn-4523538",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/6/168230.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$699.90"
+    },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
