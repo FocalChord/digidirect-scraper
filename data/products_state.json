@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-03-23T05:43:02.972665",
-  "total_products": 2,
+  "last_check": "2026-03-23T06:50:41.928100",
+  "total_products": 3,
   "products": [
+    {
+      "sku": "531955",
+      "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
+      "price": 1529.1,
+      "original_price": 1699.0,
+      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-silver-l-mount-sn-4601133",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174262.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": "$169.90"
+    },
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
