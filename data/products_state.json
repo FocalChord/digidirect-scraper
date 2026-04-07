@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-04-07T13:53:19.280615",
-  "total_products": 4,
+  "last_check": "2026-04-07T14:58:27.800795",
+  "total_products": 5,
   "products": [
+    {
+      "sku": "534205",
+      "title": "Used Leica SL 50mm f1.4 Summilux ASPH Lens S/N - 4643007",
+      "price": 5399.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-sl-50mm-f1-4-summilux-asph-lens-s-n-4643007",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/171426.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "529789",
       "title": "Used Leica SL2-S Body Only (Recently Serviced by Leica Aust.) S/N 5645322",
