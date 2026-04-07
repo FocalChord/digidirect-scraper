@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-04-07T14:58:27.800795",
-  "total_products": 5,
+  "last_check": "2026-04-07T16:08:54.706377",
+  "total_products": 6,
   "products": [
     {
       "sku": "534205",
@@ -9,6 +9,15 @@
       "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-sl-50mm-f1-4-summilux-asph-lens-s-n-4643007",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/7/171426.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
+    {
+      "sku": "531955",
+      "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
+      "price": 1699.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-silver-l-mount-sn-4601133",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174262.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     },
     {
