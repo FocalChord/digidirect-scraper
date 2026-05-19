@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-05-19T05:51:47.978879",
+  "last_check": "2026-05-19T08:50:59.050043",
   "total_products": 9,
   "products": [
     {
@@ -68,11 +68,11 @@
     {
       "sku": "108074",
       "title": "Used Leica OTQNO Extension Tube (Leitz # 16468) for Elmar 90mm f/4 Lens",
-      "price": 15.0,
-      "original_price": null,
+      "price": 14.25,
+      "original_price": 15.0,
       "url": "https://www.digidirect.com.au/used-leica-otqno-extension-tube-leitz-16468-for-elmar-90mm-f-4-lens",
       "image": "https://www.digidirect.com.au/media/catalog/product/o/t/otqno.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
+      "discount": "$0.75"
     },
     {
       "sku": "83422",
