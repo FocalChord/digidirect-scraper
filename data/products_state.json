@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-05-20T00:17:28.200706",
+  "last_check": "2026-05-20T04:38:44.729749",
   "total_products": 9,
   "products": [
     {
@@ -50,11 +50,11 @@
     {
       "sku": "529789",
       "title": "Used Leica SL2-S Body Only (Recently Serviced by Leica Aust.) S/N 5645322",
-      "price": 4359.55,
-      "original_price": 4589.0,
+      "price": 4274.05,
+      "original_price": 4499.0,
       "url": "https://www.digidirect.com.au/used-leica-sl2-s-body-only-recently-serviced-by-leica-aust-s-n-5645322",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/5/159713.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$229.45"
+      "discount": "$224.95"
     },
     {
       "sku": "528265",
@@ -77,11 +77,11 @@
     {
       "sku": "83422",
       "title": "Used Leica - SUMMARIT-S 35mm /f2.5 ASPH",
-      "price": 2089.05,
-      "original_price": 2199.0,
+      "price": 2041.55,
+      "original_price": 2149.0,
       "url": "https://www.digidirect.com.au/used-leica-summarit-s-35mm-f2-5-asph",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/2/1252508590_642609_1.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": "$109.95"
+      "discount": "$107.45"
     }
   ]
 }
