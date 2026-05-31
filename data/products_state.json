@@ -1,7 +1,16 @@
 {
-  "last_check": "2026-05-31T06:00:28.913401",
+  "last_check": "2026-05-31T08:51:13.187604",
   "total_products": 9,
   "products": [
+    {
+      "sku": "537079",
+      "title": "Used Leica SUMMICRON-TL 23mm f/2 ASPH APS-C L-Mount SN: 4273787",
+      "price": 1299.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-summicron-tl-23mm-f-2-asph-aps-c-l-mount-sn-4273787",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174260.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "531955",
       "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
@@ -27,15 +36,6 @@
       "original_price": null,
       "url": "https://www.digidirect.com.au/used-leica-elmarit-tl-18mm-f-2-8-asph-l-mount-black-sn-4674520-aps-c",
       "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174261.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
-    {
-      "sku": "537079",
-      "title": "Used Leica SUMMICRON-TL 23mm f/2 ASPH APS-C L-Mount SN: 4273787",
-      "price": 1299.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-summicron-tl-23mm-f-2-asph-aps-c-l-mount-sn-4273787",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174260.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
       "discount": null
     },
     {
