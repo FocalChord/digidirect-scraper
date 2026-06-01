@@ -1,25 +1,7 @@
 {
-  "last_check": "2026-06-01T18:26:40.005280",
-  "total_products": 9,
+  "last_check": "2026-06-01T21:47:21.817720",
+  "total_products": 7,
   "products": [
-    {
-      "sku": "537079",
-      "title": "Used Leica SUMMICRON-TL 23mm f/2 ASPH APS-C L-Mount SN: 4273787",
-      "price": 1299.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-summicron-tl-23mm-f-2-asph-aps-c-l-mount-sn-4273787",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174260.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
-    {
-      "sku": "531955",
-      "title": "Used Leica 35mm Summilux-TL F/1.4 APS-C Silver L-Mount SN: 4601133",
-      "price": 1699.0,
-      "original_price": null,
-      "url": "https://www.digidirect.com.au/used-leica-35mm-summilux-tl-f-1-4-aps-c-silver-l-mount-sn-4601133",
-      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/174262.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
-      "discount": null
-    },
     {
       "sku": "537088",
       "title": "Used Leica SL2-S Body Only SN: 5645742",
