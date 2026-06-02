@@ -1,7 +1,25 @@
 {
-  "last_check": "2026-06-02T01:38:39.445918",
-  "total_products": 7,
+  "last_check": "2026-06-02T06:18:58.729444",
+  "total_products": 9,
   "products": [
+    {
+      "sku": "540091",
+      "title": "Used Meyer-Optik Trioplan 50mm f2.9 lens in Leica M Mount SN 1640697",
+      "price": 299.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-meyer-optik-trioplan-50mm-f2-9-lens-in-leica-m-mount-sn-1640697",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/179274.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
+    {
+      "sku": "540070",
+      "title": "Used Leica M10 Silver Chrome Finish with Tan Leather SN 05190456",
+      "price": 7500.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-m10-silver-chrome-finish-with-tan-leather-sn-05190456",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/179271.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "537088",
       "title": "Used Leica SL2-S Body Only SN: 5645742",
