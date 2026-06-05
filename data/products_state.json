@@ -1,7 +1,25 @@
 {
-  "last_check": "2026-06-05T06:13:29.270804",
-  "total_products": 8,
+  "last_check": "2026-06-05T13:25:28.745950",
+  "total_products": 10,
   "products": [
+    {
+      "sku": "540217",
+      "title": "Used Leica Visoflex (TYP 020) Electronic Viewfinder for M10, TL (18767) Black",
+      "price": 548.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-visoflex-typ-020-electronic-viewfinder-for-m10-tl-18767-black",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/179275.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
+    {
+      "sku": "540214",
+      "title": "Used LEICA Thumb Support for M10 & M11 Silver (Genuine Leica 24015)",
+      "price": 177.0,
+      "original_price": null,
+      "url": "https://www.digidirect.com.au/used-leica-thumb-support-for-m10-m11-silver-genuine-leica-24015",
+      "image": "https://www.digidirect.com.au/media/catalog/product/1/7/179276.01.jpg?width=265&height=265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "discount": null
+    },
     {
       "sku": "540070",
       "title": "Used Leica M10 Silver Chrome Finish with Tan Leather SN 05190456",
