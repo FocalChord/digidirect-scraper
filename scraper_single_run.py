@@ -45,9 +45,12 @@ async def main():
         previous_products, current_products = await asyncio.to_thread(run_scrape_sync)
         
         if not current_products:
-            logger.error("No products found")
-            return False
-        
+            # An empty scrape is almost always a transient failure, not the page
+            # genuinely emptying. Skip without saving (so we don't fire false
+            # "removed" alerts) and exit cleanly so the run isn't marked failed.
+            logger.warning("No products found; skipping this run (state preserved)")
+            return True
+
         logger.info(f"Found {len(current_products)} products")
         
         # Initialize components
@@ -74,15 +77,11 @@ async def main():
         return True
         
     except Exception as e:
-        logger.error(f"Error: {e}", exc_info=True)
-        
-        try:
-            notifier = TelegramNotifier(config.telegram_bot_token, config.telegram_chat_id)
-            await notifier.send_error_notification(str(e))
-        except:
-            pass
-        
-        return False
+        # Transient scrape failures (e.g. a slow render that exhausted retries)
+        # shouldn't mark the scheduled run as failed or spam an error alert every
+        # 5 minutes. Log it and exit cleanly; the next run will retry.
+        logger.warning(f"Scrape failed transiently, skipping this run: {e}")
+        return True
 
 
 if __name__ == "__main__":

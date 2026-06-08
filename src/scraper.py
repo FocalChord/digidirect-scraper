@@ -73,29 +73,40 @@ class Scraper:
         self.wait_timeout = site_config.get('wait_timeout', 30000)
     
     def scrape(self) -> List[Product]:
-        """Scrape products from the configured website.
-        
-        Returns:
-            List of Product objects
+        """Scrape products, retrying on transient timeouts.
+
+        The DigiDirect page renders fine the vast majority of the time, but
+        occasionally takes longer than the wait timeout on a CI runner. Rather
+        than fail the whole run on a transient slow render, retry a few times.
         """
+        attempts = self.site_config.get('retries', 3)
+        last_err = None
+        for attempt in range(1, attempts + 1):
+            try:
+                return self._scrape_once()
+            except Exception as e:  # PlaywrightTimeoutError and friends
+                last_err = e
+                logger.warning(f"Scrape attempt {attempt}/{attempts} failed: {e}")
+        logger.error(f"All {attempts} scrape attempts failed: {last_err}")
+        raise last_err
+
+    def _scrape_once(self) -> List[Product]:
+        """A single scrape attempt."""
         logger.info(f"Starting scrape of {self.url}")
-        
-        try:
-            with sync_playwright() as p:
-                browser = p.chromium.launch(headless=self.headless)
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=self.headless)
+            try:
                 context = browser.new_context(
                     viewport={'width': 1920, 'height': 1080},
                     user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
                 )
                 page = context.new_page()
-                
-                # Navigate to URL
+
                 logger.info("Navigating to page...")
                 page.goto(self.url, wait_until='domcontentloaded', timeout=60000)
-                
+
                 # Handle cookie popup if present
                 try:
-                    logger.info("Checking for cookie popup...")
                     cookie_button = page.locator('button:has-text("Allow Cookies")').first
                     if cookie_button.is_visible(timeout=5000):
                         logger.info("Clicking cookie accept button...")
@@ -103,28 +114,17 @@ class Scraper:
                         page.wait_for_timeout(1000)
                 except Exception as e:
                     logger.info(f"No cookie popup or already dismissed: {e}")
-                
+
                 # Wait for products to load
                 logger.info(f"Waiting for products selector: {self.wait_for_selector}")
                 page.wait_for_selector(self.wait_for_selector, timeout=self.wait_timeout)
-                
-                # Additional wait for JS rendering
-                page.wait_for_timeout(3000)
-                
-                # Extract products
+                page.wait_for_timeout(3000)  # additional wait for JS rendering
+
                 products = self._extract_products(page)
-                
-                browser.close()
-                
                 logger.info(f"Successfully scraped {len(products)} products")
                 return products
-                
-        except PlaywrightTimeoutError as e:
-            logger.error(f"Timeout while scraping: {e}")
-            raise
-        except Exception as e:
-            logger.error(f"Error during scraping: {e}")
-            raise
+            finally:
+                browser.close()
     
     def _extract_products(self, page: Page) -> List[Product]:
         """Extract product data from the page.
